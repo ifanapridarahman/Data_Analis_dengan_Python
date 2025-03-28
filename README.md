@@ -16,3 +16,4 @@ Repository ini berisi mengenai projek-projek analisis data menggunakan Python Go
 - Mencari Missing Value dan mengisi missing value (NaN) dengan berbagai metode (Data sebelumnya, Data setelahnya, Interpolasi)
 - Menemukan data duplikasi, menghapus data duplikat
 - Menangani Data Outlier dengan menghapus data ataupun tidak menghapus data
+- <a href="https://github.com/ifanapridarahman/Data_Analis_dengan_Python/blob/main/Data_Analysis_Preparation.ipynb">Syntax</a>
