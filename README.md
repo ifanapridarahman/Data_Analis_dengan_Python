@@ -17,3 +17,9 @@ Repository ini berisi mengenai projek-projek analisis data menggunakan Python Go
 - Menemukan data duplikasi, menghapus data duplikat
 - Menangani Data Outlier dengan menghapus data ataupun tidak menghapus data
 - <a href="https://github.com/ifanapridarahman/Data_Analis_dengan_Python/blob/main/Data_Analysis_Preparation.ipynb">Syntax</a>
+
+## Memprediksi Kasus Gagal Bayar pada Pinjaman Bank dengan Menggunakan Beberapa Model
+- Model Regresi Logistik
+- Gradient Boosting
+- Random Forest
+- <a href="https://github.com/ifanapridarahman/Data_Analis_dengan_Python/blob/main/Prediction_Model_Kasus_Gagal_Bayar.ipynb">Syntax</a>
